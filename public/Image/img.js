@@ -1,0 +1,10 @@
+export { default as Ben } from './img/ben.jpg';
+export { default as Setup } from './img/setup.jpg';
+export { default as Pro1 } from './img/project/pro1.jpg';
+export { default as Pro2 } from './img/project/pro2.jpg';
+export { default as Pro3 } from './img/project/pro3.jpg';
+export { default as Pro4 } from './img/project/pro4.jpg';
+export { default as Pro5 } from './img/project/pro5.jpg';
+export { default as Pro6 } from './img/project/pro6.jpg';
+export { default as Pro7 } from './img/project/pro7.jpg';
+export { default as Pro8 } from './img/project/pro8.jpg';
